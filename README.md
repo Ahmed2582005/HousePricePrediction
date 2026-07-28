@@ -137,5 +137,6 @@ Evaluation Metrics
 
 ## 👨‍💻 Author
 
-Ahmed Ehab
-Computer Science Student
+Ahmed EhaP
+Hasnaa Ibrahim
+Menna fawzy

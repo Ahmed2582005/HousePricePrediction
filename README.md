@@ -135,8 +135,12 @@ Evaluation Metrics
 
 ![Prediction](screenshots/prediction.png)
 
-## 👨‍💻 Author
+## 👨‍💻 Team Members
 
-Ahmed EhaP
-Hasnaa Ibrahim
-Menna fawzy
+- Ahmed Ehab
+- Hasnaa Ibrahim
+- Mohamed Ali
+- Sara Ahmed
+
+ 
+**Project:** House Price Prediction using Machine Learning

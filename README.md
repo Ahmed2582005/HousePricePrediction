@@ -137,10 +137,9 @@ Evaluation Metrics
 
 ## 👨‍💻 Team Members
 
-- Ahmed Ehab
+- Ahmed Ehap
 - Hasnaa Ibrahim
-- Mohamed Ali
-- Sara Ahmed
+- Menna Fawzy
 
  
 **Project:** House Price Prediction using Machine Learning
